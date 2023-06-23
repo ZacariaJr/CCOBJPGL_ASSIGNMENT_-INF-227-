@@ -1,0 +1,7 @@
+interface Himalayan {
+
+    String eyeColor = "Green";
+    String weight = "17 pounds";
+   
+    void meow();
+}

@@ -1,0 +1,6 @@
+class Poodle {
+
+    String eyeColor = "Dark white";
+    String weight = "2.8kg";
+   
+}

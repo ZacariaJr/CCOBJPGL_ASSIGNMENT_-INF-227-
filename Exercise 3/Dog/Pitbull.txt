@@ -1,0 +1,7 @@
+public class Pitbull extends Bulldog implements Poodle {
+
+    public void bark() {
+        System.out.println("My Pitbull is barking");
+
+    }
+}

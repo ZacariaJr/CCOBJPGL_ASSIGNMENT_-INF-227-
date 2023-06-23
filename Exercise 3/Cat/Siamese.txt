@@ -1,0 +1,4 @@
+interface Siamese extends Himalayan, Persian {
+
+    void meow();
+}
